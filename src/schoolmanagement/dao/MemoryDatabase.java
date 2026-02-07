@@ -1,8 +1,8 @@
-package dao;
-import models.Parent;
-import models.Student;
-import models.Subject;
-import models.Teacher;
+package schoolmanagement.dao;
+import schoolmanagement.models.Parent;
+import schoolmanagement.models.Student;
+import schoolmanagement.models.Subject;
+import schoolmanagement.models.Teacher;
 public class MemoryDatabase {
     public static Parent[] PARENTS_T = new  Parent[15];
     public static Student[] STUDENTS_T = new  Student[20];
