@@ -1,10 +1,10 @@
-package services;
+package schoolmanagement.services;
 
-import models.Parent;
-import models.Student;
-import models.Teacher;
-import models.Subject;
-import dao.MemoryDatabase;
+import schoolmanagement.models.Parent;
+import schoolmanagement.models.Student;
+import schoolmanagement.models.Teacher;
+import schoolmanagement.models.Subject;
+import schoolmanagement.dao.MemoryDatabase;
 
 public class SchoolService {
     private Subject[] subjects = MemoryDatabase.SUBJECTS_T; //RAM

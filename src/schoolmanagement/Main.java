@@ -1,10 +1,10 @@
-package schoolmanagement
-import enums.Gender;
-import models.Parent;
-import models.Student;
-import models.Subject;
-import models.Teacher;
-import services.SchoolService;
+package schoolmanagement;
+import schoolmanagement.enums.Gender;
+import schoolmanagement.models.Parent;
+import schoolmanagement.models.Student;
+import schoolmanagement.models.Subject;
+import schoolmanagement.models.Teacher;
+import schoolmanagement.services.SchoolService;
 
 import java.util.Scanner;
 

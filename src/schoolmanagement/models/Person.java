@@ -1,7 +1,7 @@
-package models;
+package schoolmanagement.models;
 
 import java.util.Date;
-import enums.Gender;
+import schoolmanagement.enums.Gender;
 
 public class Person {
     private String firstname;

@@ -1,5 +1,5 @@
-package models;
-import enums.Gender;
+package schoolmanagement.models;
+import schoolmanagement.enums.Gender;
 
 import java.util.Arrays;
 

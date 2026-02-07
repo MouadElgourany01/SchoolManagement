@@ -1,4 +1,4 @@
-package models;
+package schoolmanagement.models;
 
 public class Subject {
     private final int id;
