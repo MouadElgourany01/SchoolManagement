@@ -1,8 +1,9 @@
 # SchoolManagement
 
---src   
-----dao     
-----enums       
-----models      
-----services    
-Main.java
+C:.     
+├───.idea   
+└───src 
+* ├───dao     
+* ├───enums   
+* ├───models  
+* └───services
